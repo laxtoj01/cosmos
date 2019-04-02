@@ -1,1 +1,2 @@
-# cosmos
+# COSMOS Training
+
